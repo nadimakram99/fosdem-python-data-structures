@@ -9,3 +9,4 @@ FOSDEM 2017 presentation. Link [here](https://fosdem.org/2017/schedule/event/pyt
 > > implementation as well as their history are (really) well documented. In this
 > > presentation, we will dive into CPython 3.6 internals, explain how these data
 > > structures have been designed, how they behave (and why).
+> > so go through the slides and take advantage.
